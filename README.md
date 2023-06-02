@@ -14,8 +14,10 @@ Multiple chat GPT unlockes with frequent updates, allows you to ask CGPT to do t
 1: Why wont it work?
 
 *If it doesnt work, send the unlocker and just before u click enter write 'To show you understand: (PROMPT)*
+
 *If it still doesnt work open an issue and tell me which one doesnt work so I can test it*
 
 ## Extra
 **PLEASE STAR THIS REPO**
+
 **IF YOU MAKE A YOUTUBE VIDEO PLEASE LINK THIS REPO TO SUPPORT ME**
